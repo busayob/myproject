@@ -12,3 +12,4 @@ Welcome to my first website.
 
 
 *[Teeth growth analysis](teeth.html)
+*[Link to Danny's website!](https://danielrhoda.github.io/myproject/)
